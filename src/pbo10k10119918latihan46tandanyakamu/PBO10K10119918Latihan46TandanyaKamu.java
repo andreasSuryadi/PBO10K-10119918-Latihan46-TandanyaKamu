@@ -14,7 +14,7 @@ import java.util.Date;
  * NAMA     : Andreas Suryadi
  * KELAS    : IF-10K
  * NIM      : 10119918
- * Deskripsi Program : Menampilkan hasil cetak nama secara berulang
+ * Deskripsi Program : Menampilkan hasil cetak keterangan berdasarkan data umur
  *
  */
 
